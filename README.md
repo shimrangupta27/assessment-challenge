@@ -48,5 +48,5 @@ Questions:
 
 answer-> 1. Introduction of this feature can attrack user to watch movie and videos of their own taste whereas as it can annoy too, to those user who not like getting notified each and Everytime.
 2. It should have simple goal that it never hamper the privacy of user and there should be a option to on/off these notification .
-Before launching thus feature it should be evaluated by distributing the app to office staff, employee of the company. Once they let us know the possible improvement that we can do , then launching it would be better.
+3.Before launching thus feature it should be evaluated by distributing the app to office staff, employee of the company. Once they let us know the possible improvement that we can do , then launching it would be better.
 
